@@ -1,0 +1,40 @@
+#firsth2
+{
+	color:blue;
+}
+.mydivs
+{
+	border:2px dotted orange;
+	background-color: lightblue;
+	margin:4px 5px;
+	padding:3px 2px 4px;
+}
+div > p
+{
+	color:green;
+}
+div.mycube
+{
+	border:2px dotted black;
+	padding:3px;
+	width:130px;
+	height:70px;
+	background-color: pink;
+	text-align:center;
+	padding-top:60px;
+	font-weight:bold;
+	font-style: italic;
+	font-family: Arial;
+	position: relative;
+	left:3px;
+}
+#mydiv,.mydiv
+{
+	border:2px solid purple;
+	padding:10px;
+	margin:auto;
+}
+img
+{
+	border:1px solid black;
+}
